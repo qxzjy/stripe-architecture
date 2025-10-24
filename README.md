@@ -1,4 +1,4 @@
-# Architecture de données Stripe 🏛️
+# Stripe Data Architecture 🏛️
 
 <p align="center">
    <img src='./img/stripe_logo.png' height='150'>
@@ -6,11 +6,11 @@
 
 ## Markdown
 
-| Nom | Description |
+| Name | Description |
 |:-|:-|
-| _[00_business_case.md](00_business_case.md)_ | Cas d'étude |
-| _[01_architecture.md](01_architecture.md)_ | Dossier d'architecture |
+| _[00_business_case.md](00_business_case.md)_ | Business case (also exist in french) |
+| _[01_architecture.md](01_architecture.md)_ | Data architecture (also exist in french) |
 
-## Auteur
+## Author
 
 [Maxime RENAULT](https://github.com/qxzjy)
