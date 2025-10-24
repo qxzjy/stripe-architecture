@@ -4,7 +4,7 @@
 Stripe, leader des technologies financières, veut bâtir une infrastructure de données unifiée et évolutive pour gérer la croissance de ses volumes. L’objectif est d’intégrer ses systèmes transactionnels (OLTP), analytiques (OLAP) et NoSQL afin de traiter d’importantes données, permettre des analyses complexes et exploiter des données non structurées pour la détection de fraude, l’analyse comportementale et les recommandations en temps réel.
 
 ## Architecture globale
-![global_architecture](img/global_architecture.png)
+![global_architecture](img/global_architecture_fr.png)
 
 ## Conception du modèle de données
 
@@ -221,7 +221,7 @@ db.Customer.createIndex( { "preferences.device": 1,
 
 ## Pipeline de données
 
-![data_pipeline](img/data_pipeline.png)
+![data_pipeline](img/data_pipeline_fr.png)
 
 ### Outils et technologies
 
@@ -315,7 +315,7 @@ db.Customer.createIndex( { "preferences.device": 1,
 
 ## Architecture machine learning
 
-![ml_architecture](img/ml_architecture.png)
+![ml_architecture](img/ml_architecture_fr.png)
 
 ### Outils et technologies
 
