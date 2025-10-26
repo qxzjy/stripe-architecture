@@ -1,7 +1,7 @@
 # Stripe Data Architecture 🏛️
 
 <p align="center">
-   <img src='./img/stripe_logo.png' height='150'>
+   <img src='./img/stripe_logo.png' height='100'>
 </p>
 
 ## Markdown
